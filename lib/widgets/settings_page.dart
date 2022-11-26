@@ -61,8 +61,7 @@ class SettingsPageState extends State<SettingsPage> {
                 child: Row(
                   children: [
                     FutureBuilder<String?>(
-                        future: Future.delayed(
-                            const Duration(seconds: 1), () => ''),
+                        future: Future.delayed(const Duration(seconds: 1)),
                         builder: (context, snapshot) {
                           if (snapshot.hasError) {
                             print(snapshot.error.toString());
@@ -89,8 +88,7 @@ class SettingsPageState extends State<SettingsPage> {
                           }
                         }),
                     FutureBuilder<String?>(
-                        future: Future.delayed(
-                            const Duration(seconds: 1), () => 'Rohan'),
+                        future: Future.delayed(const Duration(seconds: 1)),
                         builder: (context, snapshot) {
                           if (snapshot.hasError) {
                             print(snapshot.error.toString());
