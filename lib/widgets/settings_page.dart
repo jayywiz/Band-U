@@ -133,8 +133,7 @@ class SettingsPageState extends State<SettingsPage> {
                 child: SizedBox(
                   width: double.infinity,
                   child: FutureBuilder<String?>(
-                      future: Future.delayed(
-                          const Duration(seconds: 1), () => 'Rohan'),
+                      future: Future.delayed(const Duration(seconds: 1)),
                       builder: (context, snapshot) {
                         if (snapshot.hasError) {
                           return Center(
