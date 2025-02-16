@@ -35,15 +35,7 @@
 - **Filters**: Narrow down search results using artist, genre, or album preferences.  
 - **Encrypted Messaging**: Chat features include text, stickers, and music sharing.  
 - **Customizable Profiles**: Users can connect one music application at a time and update their preferences.
-
----
-
-## 🎥 Demo & Resources
-- **Demo Video**: [Watch here](https://mahindraecolecentrale-my.sharepoint.com/:v:/g/personal/krishna19226_mechyd_ac_in/ET5-4CkL5_pJqEqRYDghdscBoi4PY1cpAcdehI7xIhAVGA?e=yCNWwh)  
-- **APK Download**: [Download here](https://mahindraecolecentrale-my.sharepoint.com/:u:/g/personal/krishna19226_mechyd_ac_in/EdxPHBS9bvtIi6k_06EqHi8BqPHxLnBwX4lF6kdg-VAEoQ?e=8Ih8Oy)  
-- **Figma Design**: [View here](https://www.figma.com/file/qTKZmrc0Qu7pEnxxEOreny/BAND?node-id=0%3A1&t=pLcNVEavnS7fKyJf-0)  
-- **GitHub Repository**: [Source Code](https://github.com/Kr1shnaG/Band_U.git)  
-
+  
 ---
 
 ## 📈 How It Works
